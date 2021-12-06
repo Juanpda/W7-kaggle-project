@@ -7,6 +7,8 @@ The objective of this project is to create a machine learning model that predict
 
 ## Documents
 
+PowerPoint presentation.
+
 Two jupyters:
  - Cleaning.ipynb: Clean the Dataset.
  - Modeling.ipnyb: Create the model, optimize and make the predictions.
