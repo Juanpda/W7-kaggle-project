@@ -2,16 +2,22 @@
 
 ## Objective
 
-The objective of this project is to create a model that predicts the price of diamonds from a database of diamond characteristics. The model predictions will be submited to kaggle in order to obtain a final score and a position in the ranking.
+The objective of this project is to create a machine learning model that predicts the price of diamonds from a database of diamond characteristics. The model predictions will be submited to kaggle in order to obtain a final score and a position in the ranking.
 
 
 ## Documents
 
-The proyect has only two jupyters:
- - Cleaning.ipynb: Clean the Dataset
- - Modeling.ipnyb: Create the model and optimize.
+Two jupyters:
+ - Cleaning.ipynb: Clean the Dataset.
+ - Modeling.ipnyb: Create the model, optimize and make the predictions.
+
+A data folder containing: 
+ - The initial dataset. 
+ - The clean datasets. 
+ - The result of the model predictions. 
 
 And this README.md file with a brief summary.
+
 
 ## Libraries
 
